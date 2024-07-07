@@ -1,0 +1,77 @@
+:root{
+    --main-color :#ff2062;
+}
+
+header{
+    background-image: url(../img/intro-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+   
+  
+}
+ .header-content .icons{
+    height: 35px;
+    width: 35px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    margin: 0px 5px;
+}
+.header-content a{
+    text-decoration: none;
+  color: var(--main-color);
+}
+.navbar-brand{
+    color: var(--main-color);
+  font-size: 20px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: #fff;
+}
+.title h2{
+    font-size: 80px;
+    font-family: "Bebas Neue", sans-serif;
+    color: #f1f1f1;
+    letter-spacing: 15px;
+}
+.title h3{
+    font-size: 40px;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 15px;
+    color: #ff2062;
+    
+}
+
+
+
+.h-main{
+    color: var(--main-color);
+}
+section{
+  
+}
+.services .title h2{
+    color: #222;
+}
+.services .title h2{
+    color: #f1f1f1;
+}
+.card{
+    margin-bottom: 20px;
+   
+    
+}
+.btn{
+    background-color: #ff2062;
+}
+.btn:hover{
+    background-color:gray;
+}
+.form-label{
+    color: #ff2062;
+}
+.seervices{
+    background-color:#222;
+}
+.btn-view{
+    border-radius: 75px;
+    background-color: #fff;
+}
